@@ -1,6 +1,6 @@
 # Send mail Github Action....
 
-An action that simply sends a mail to multiple recipients.
+An action that simply sends a mail to multiple recipients...
 
 Some features:
 - plain text body
